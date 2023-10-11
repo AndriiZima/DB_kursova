@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace MySqlTraning
 {
-    class PrintClass
+    public class PrintClass
     {
         public void  Print(string queryName, System.Drawing.Printing.PrintPageEventArgs e, DataGridView dataGridView1)
         {

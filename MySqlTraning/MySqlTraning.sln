@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlTraning", "MySqlTraning\MySqlTraning.csproj", "{00155E50-432C-4385-854E-91C099E01ECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectDBCursova", "UnitTestProjectDBCursova\UnitTestProjectDBCursova.csproj", "{33BB260D-96E2-47CD-9DE8-FF8C98AEDB90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{00155E50-432C-4385-854E-91C099E01ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00155E50-432C-4385-854E-91C099E01ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00155E50-432C-4385-854E-91C099E01ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BB260D-96E2-47CD-9DE8-FF8C98AEDB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BB260D-96E2-47CD-9DE8-FF8C98AEDB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BB260D-96E2-47CD-9DE8-FF8C98AEDB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BB260D-96E2-47CD-9DE8-FF8C98AEDB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

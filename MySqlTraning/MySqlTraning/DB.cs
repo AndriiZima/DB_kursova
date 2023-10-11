@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MySqlTraning
 {
-    class DB
+    public class DB
     {
         MySqlConnection connection = new MySqlConnection("server=localhost;uid=Biba;pwd=aboba123;database=coolcompany");
 
